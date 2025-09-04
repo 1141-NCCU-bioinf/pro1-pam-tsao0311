@@ -16,7 +16,7 @@ def generate_pam(x, input_path, output_path):
     .
     .
 ```
-* Upload your code 'hw1.py' to Gradescope under the course ID:**8K4V8V**.
+* Upload your code 'hw1.py' to Gradescope under the course ID:**VWRZEN**.
 * Packages you can use: numpy, pandas
 
 ### HINTs
